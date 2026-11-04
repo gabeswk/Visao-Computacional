@@ -78,7 +78,7 @@ cd Visao-Computacional
 ### 3. Instale as dependências
 
 ```bash
-pip install opencv-python mediapipe pyautogui pillow
+pip install -r requirements.txt
 ```
 
 ### 4. Execute a aplicação
