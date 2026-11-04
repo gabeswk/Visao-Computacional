@@ -1,4 +1,4 @@
-# 🖐️ Controle do Computador por Gestos
+# Controle do Computador por Gestos
 
 Sistema de controle do mouse por meio de gestos das mãos, utilizando visão computacional e reconhecimento de movimentos em tempo real. O projeto permite interagir com o computador sem a necessidade de utilizar um mouse físico, usando apenas uma webcam.
 
@@ -66,13 +66,13 @@ O funcionamento do sistema é dividido em algumas etapas:
 ### 2. Clone o repositório
 
 ```bash
-git clone https://github.com/gabeswk/NOME-DO-REPOSITORIO.git
+git clone https://github.com/gabeswk/Visao-Computacional.git
 ```
 
 Entre na pasta do projeto:
 
 ```bash
-cd NOME-DO-REPOSITORIO
+cd Visao-Computacional
 ```
 
 ### 3. Instale as dependências
